@@ -63,6 +63,10 @@ DEVLOG.md => Daily technical progress
  
 2. Created Basic file `app.py`
 
+# Day 3 (05-04-2026)
+
+1. Folder and File Structure created
+
 
 
 
