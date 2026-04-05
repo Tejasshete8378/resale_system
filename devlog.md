@@ -67,6 +67,8 @@ DEVLOG.md => Daily technical progress
 
 1. Folder and File Structure created
 
+2. Initialize Flask backend with basic routes and GET/items API 
+
 
 
 
