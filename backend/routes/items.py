@@ -1,8 +1,9 @@
 from flask import Blueprint, jsonify
-from backend.models import items
 
-items_bp = Blueprint('items_bp', __name__)
+# Create Blueprint
+items_bp = Blueprint('items', __name__)
 
-@items_bp.route('/items', methods=['GET'])
+# Minimal route
+@items_bp.route('/items')
 def get_items():
-    return jsonify(items)
+    return jsonify({"message": "Items route working"})

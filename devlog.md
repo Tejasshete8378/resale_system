@@ -69,6 +69,13 @@ DEVLOG.md => Daily technical progress
 
 2. Initialize Flask backend with basic routes and GET/items API 
 
+# Day 4 (06-04-2026)
+
+1. Understand app.py code
+
+# Day 5 (07-04-2026)
+
+1. Modified items.py code
 
 
 
